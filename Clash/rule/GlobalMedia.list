@@ -18,37 +18,10 @@ USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 
-# Amazon
-DOMAIN-KEYWORD,avoddashs
-DOMAIN,atv-ps.amazon.com
-DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN,d1xfray82862hr.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,d27xxe7juh1us6.cloudfront.net
-DOMAIN,d3196yreox78o9.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,ktpx.amazon.com
-DOMAIN-SUFFIX,aboutamazon.com
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazon.jobs
-DOMAIN-SUFFIX,amazonuniversity.jobs
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,pv-cdn.net
-URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
-
 # AppleNews
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
 DOMAIN,gspe1-ssl.ls.apple.com
-
-# AppleTV
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
 
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
@@ -90,30 +63,6 @@ DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,uplynk.com
-
-# DisneyPlus
-USER-AGENT,Disney*
-USER-AGENT,Disney+*
-DOMAIN,cdn.registerdisney.go.com
-DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,bam.nr-data.net
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,cdn.optimizely.com
-DOMAIN-SUFFIX,cdn.registerdisney.go.com
-DOMAIN-SUFFIX,cws.conviva.com
-DOMAIN-SUFFIX,d9.flashtalking.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disney-portal.my.onetrust.com
-DOMAIN-SUFFIX,disney.demdex.net
-DOMAIN-SUFFIX,disney.my.sentry.io
-DOMAIN-SUFFIX,disneyplus.bn5x.net
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,js-agent.newrelic.com
 
 # EncoreTVB
 USER-AGENT,encoreTVB*
