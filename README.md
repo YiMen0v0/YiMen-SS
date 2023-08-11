@@ -12,5 +12,5 @@
 * 3.LM-Firefly 项目地址: https://github.com/LM-Firefly/Rules
 
 # 如需使用转化链接平台subconverter
-* 可使用 https://hi.yimenown.space 来进行订阅转化（此为本人创建）。
+* 可使用 https://trans.yimen.website/ 来进行订阅转化（此为本人创建）。
 * 如不放心，请依据https://github.com/CareyWang/sub-web与https://github.com/tindy2013/subconverter 自行搭建前后端。
