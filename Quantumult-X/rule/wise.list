@@ -1,3 +1,4 @@
-HOST-KEYWORD,wise,wise
+USER-AGENT,Argo*,Netflix
 HOST-SUFFIX,wise.com,wise
 HOST-SUFFIX,transferwise.com,wise
+HOST-KEYWORD,wise,wise
